@@ -3,7 +3,6 @@
 
 Clinician–Data Scientist | DoD Analytics | Surgical Research Collaborator  
 
-<img src="assets/headshot.jpg" alt="Olivier Shu" width="150" align="right">
 
 ---
 
