@@ -22,6 +22,7 @@ Build and evaluate baseline models to predict postoperative surgical site infect
 ## Outputs
 - `reports/figures/roc.png`, `pr.png`, `shap.png`  
 - `reports/ssi_summary.pdf` (300–400 word abstract)
+- ![ROC curve](reports/figures/roc.png)
 
 ## Notes
 - Uses public or synthetic data – no PHI/PII.  
