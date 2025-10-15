@@ -1,11 +1,8 @@
 # Olivier Shu, MD, MSc (Data Analytics)  MBA  
 <img src="assets/pic.jpg" alt="Olivier Shu" width="150" align="right">
 
-
 Clinician–Data Scientist | DoD Analytics | Surgical Research Collaborator  
 
-
----
 
 ## About Me  
 I’m a clinician–data scientist with a background spanning medicine, nursing, and defense analytics.  
