@@ -21,7 +21,10 @@ My focus now is applying reproducible data science to surgical and neurosurgical
 | Surgical Site Infection Prediction | UCI SSI | ML model predicting surgical site infection risk. | 🔗 [Repo](#) |
 | Surgical Outcomes Model (MIMIC-IV) | MIMIC-IV| Predicting postoperative complications & LOS. | 🔗 [Repo](#) |
 | ICU Deterioration Monitoring (eICU)| eICU CRD| Time-series model detecting ICU deterioration early. | 🔗 [Repo](#) |
-[📂 View All Projects →](projects.md)
+### Figures
+![ROC](reports/figures/roc.png)
+![Precision–Recall](reports/figures/pr.png)
+![SHAP](reports/figures/shap.png)
 
 
 
