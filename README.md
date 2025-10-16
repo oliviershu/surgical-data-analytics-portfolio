@@ -26,8 +26,6 @@ My focus now is applying reproducible data science to surgical and neurosurgical
 ![Precision–Recall](reports/figures/pr.png)
 ![SHAP](reports/figures/shap.png)
 
-
-
 ---
 
 ## Core Skills  
