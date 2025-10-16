@@ -7,4 +7,6 @@ A simple logistic regression model achieved a test accuracy of **≈85–90%** d
 Next steps include extending to Random Forest and XGBoost for comparison, plotting ROC and precision-recall curves, and generating SHAP interpretability plots to identify the most influential predictors.
 
 The notebook and folder structure follow a reproducible research pattern—datasets in `/data`, code in `/notebooks`, and output plots in `/reports/figures`.
-**Results:** On synthetic peri-operative data (n≈300), RandomForest and XGBoost modestly outperformed Logistic Regression by ROC AUC (~0.02–0.08). Precision–recall was consistent with class balance. SHAP highlighted operative time, BMI>30, and diabetes as the strongest contributors. (Exact values vary with the random seed; code is fully reproducible.)
+
+**Results:** 
+On synthetic peri-operative data (n≈300), RandomForest and XGBoost modestly outperformed Logistic Regression by ROC AUC (~0.02–0.08). Precision–recall was consistent with class balance. SHAP highlighted operative time, BMI>30, and diabetes as the strongest contributors. (Exact values vary with the random seed; code is fully reproducible.)
